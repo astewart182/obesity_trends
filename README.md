@@ -6,3 +6,6 @@ Here in the US, obesity is an epedemic and has offically been declared a public 
 
 The goal of this analsyis is to better understand the trend of rising obesity here in the US, and also compare rates from multiple major countries around the world to see how we compare
 to each other.
+
+The data used for this anallsis was downloaded directly from the World Health Organization, and includes data from year 1975 to year 2016.
+
